@@ -12,7 +12,10 @@
 - 📱 Fokus memperdalam keahlian di ekosistem **Android Native (Kotlin)**.
 - 🌱 Tertarik untuk belajar **Jetpack Compose**, **Kotlin Multiplatform**, dan arsitektur aplikasi yang modern seperti **MVVM (Model-View-ViewModel)**.
 - 🚀 Terbuka untuk peluang kolaborasi, freelance, atau sekadar diskusi tentang teknologi.
-Tujuan saya adalah untuk terus belajar dan berkontribusi pada proyek-proyek yang inovatif dan memberikan dampak positif.
+
+<p align="left"> 
+  Tujuan saya adalah untuk terus belajar dan berkontribusi pada proyek-proyek yang inovatif dan memberikan dampak positif.
+</p>
 
 ---
 
@@ -25,6 +28,8 @@ Tujuan saya adalah untuk terus belajar dan berkontribusi pada proyek-proyek yang
 | **Arsitektur**| <img src="https://img.shields.io/badge/MVVM-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Coroutines-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Dagger%20Hilt-red?style=for-the-badge"> |
 | **Database** | <img src="https://img.shields.io/badge/Room-9C27B0?style=for-the-badge"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">                                        |
 | **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> |
+
+---
 
 ### 🌱 Di Luar Koding
 
